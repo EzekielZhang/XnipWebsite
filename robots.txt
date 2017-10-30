@@ -10,3 +10,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 Sitemap: http://www.xnipapp.com/sitemap.xml
+Sitemap: http://www.xnipapp.com/baidusitemap.xml
