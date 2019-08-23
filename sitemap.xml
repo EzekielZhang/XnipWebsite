@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.xnipapp.com/support/index.html</loc>
+    
+    <lastmod>2019-08-23T15:45:09.291Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xnipapp.com/scrolling-capture/index.html</loc>
     
     <lastmod>2019-08-23T15:42:30.193Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://www.xnipapp.com/common-issues/index.html</loc>
     
     <lastmod>2019-01-25T03:40:54.284Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xnipapp.com/support/index.html</loc>
-    
-    <lastmod>2018-03-29T07:24:59.013Z</lastmod>
     
   </url>
   
